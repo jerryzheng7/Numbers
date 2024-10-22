@@ -1,3 +1,6 @@
+# Copyright 2024 Jerry Zheng jzheng7@bu.edu
+# Copyright 2024 Thomas Kelly kellthom@bu.edu
+
 import numpy as np
 import sys
 import time
